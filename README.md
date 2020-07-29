@@ -4,7 +4,7 @@ The present repository contains source codes and documentations of RSS-NET,
 a novel Bayesian framework for simultaneous genome-wide enrichment
 and prioritization analysis of complex trait GWAS and gene regulatory network. 
 
-## Getting started
+### Getting started
 
 1. [Install](https://suwonglab.github.io/rss-net/setup.html) the RSS-NET software.
 
@@ -12,7 +12,7 @@ and prioritization analysis of complex trait GWAS and gene regulatory network.
 
 3. Try RSS-NET on [a real-world dataset](https://suwonglab.github.io/rss-net/ibd2015_nkcell.html). 
 
-## Citing this work
+### Citing this work
 
 If you find any part of this repository useful for your work,
 please kindly cite the following research article:
@@ -21,7 +21,7 @@ please kindly cite the following research article:
 > Modeling regulatory network topology improves genome-wide analyses of complex human traits.
 > *bioRxiv*. <https://doi.org/10.1101/2020.03.13.990010>.
 
-## Support
+### Support
 
 1. Refer to [RSS-NET wiki](https://SUwonglab.github.io/rss-net/)
 for tutorials and documentations.
@@ -31,7 +31,7 @@ to report bugs and/or request features.
 
 3. Send an email to `xiangzhu[at]stanford.edu`.
 
-## Contact
+### Contact
 
 [Xiang Zhu](https://github.com/xiangzhu)<br>
 [Wing Hung Wong Lab](https://statistics.stanford.edu/people/wing-hung-wong)<br>
