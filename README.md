@@ -1,4 +1,4 @@
-### RSS-NET: integrative analysis of complex trait GWAS and gene regulatory network
+## RSS-NET: integrative analysis of GWAS and gene regulatory network
 
 The present repository contains source codes and documentations of RSS-NET,
 a novel Bayesian framework for simultaneous genome-wide enrichment
